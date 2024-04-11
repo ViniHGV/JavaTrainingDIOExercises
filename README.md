@@ -11,17 +11,7 @@ Este repositório contém as minhas soluções para os exercícios propostos dur
 ## Estrutura do Repositório
 
 - A raiz do repositório está sendo separada por nivel de dificuldade dos exercicios
-  - Exemplo Exercicios de Fundamentos do **Java** está em /Fundaments
-
-## Organização dos Arquivos
-
-Dentro do diretório `/exercicios/`, os exercícios estão organizados por módulo e/ou tópico específico, seguindo a estrutura de pastas fornecida pela plataforma DIO.
-
-Cada exercício está acompanhado de um arquivo README.md contendo a descrição do problema e, quando necessário, exemplos de entrada e saída.
-
-## Configuração do Ambiente
-
-Para executar os exercícios e visualizar as soluções, você precisará configurar o ambiente de desenvolvimento Java em sua máquina. Recomendo a utilização da IntelliJ IDEA, mas você também pode utilizar outras IDEs compatíveis com Java.
+  - Exemplo: Exercicios de Fundamentos do **Java** está em /Fundaments
 
 ## Como Utilizar
 
